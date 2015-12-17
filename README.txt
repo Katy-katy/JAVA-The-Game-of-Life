@@ -1,7 +1,7 @@
 I wrote this program for my JAVA_B class at Foothill College with was thought by professor Jesse Cecil.
 
 The Game of Life  was invented by a mathematician, John Horton Conway.
-“It was played by oneself in the spirit of solitaire.  One began with a large piece 	of graph paper and
+“It was played by oneself in the spirit of solitaire.  One began with a large piece of graph paper and
  placed some marks or stones in a few of the squares to create an initial pattern or seed.  
  After that, the rules of life determined what happened next. One referred to Conway's rules carefully
  examining each cell of the seed to figure out whether it survived, died or was reborn into the next
