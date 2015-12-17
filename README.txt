@@ -1,0 +1,19 @@
+I wrote this program for my JAVA_B class at Foothill College with was thought by professor Jesse Cecil.
+
+The Game of Life  was invented by a mathematician, John Horton Conway.
+“It was played by oneself in the spirit of solitaire.  One began with a large 		piece 	of graph paper and
+ placed some marks or stones in a few of the 			squares to create an initial pattern or seed.  
+ After that, the rules of life 			determined what happened next.  One referred to Conway's  rules carefully
+ examining each cell of the seed to figure out whether it survived, died or was 		reborn into the next
+ generation. Thus, a series of generations resulted, each 		one arising by applying life's rules to 
+ the priorgeneration.  Conway's initial 		research demonstrated that there were certain seeds that caused things to 		
+ get boring fast (the entire board became empty, i.e., all white/dead), while 	others generated interesting repetitive 
+ graphics: blinkers and gliders.  He 	even 	offered a $50 prize to anyone who could prove or disprove that there was 
+ no finite initial condition that would grow without limit as the generations passed. … the rules are symbolic of 
+ a few crude observations that biologists have made about populations:  If things get either too crowded or too barren, 
+ individuals tend to die.  If they are in the sweet middle ground, they tend to survive.  And there is usually a special 
+ condition that creates birth.” (from our assignment).
+
+For this assignment I wrote the program which get rule from user and then create automaton with this rule and single 
+central seed. For example, when rule is “4” the seed will stay just one seed forever (you can see some examples of run 
+the program at the end of .java file).
